@@ -2,7 +2,7 @@
 
 Template Application.
 
-**Status:** 🟢 working as of 16/11/2025
+**Status:** 🟢 working as of 16/11/2025 _(send PR with new date if it works for you today!)_
 
 Before deploying (your commit with gh actions), make sure you 
 
