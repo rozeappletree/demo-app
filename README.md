@@ -2,6 +2,8 @@
 
 Template Application.
 
+**Status:** 🟢 working as of 16/11/2025
+
 Before deploying (your commit with gh actions), make sure you 
 
 - Change the host and ssh key values in gh secrets
